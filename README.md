@@ -46,7 +46,7 @@ I am a back-end web developer , I love sharing my experience with others , and I
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,react,github,git,html,css,java" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,react,github,git,html,css,java" />
 </div>
 <br>
 <!-- <div> 
