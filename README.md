@@ -36,9 +36,6 @@ I am a back-end web developer , I love sharing my experience with others , and I
 
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Aria Esmaeilzadeh!;" />
-</h1>
 
 <h4><span style="font-weight: bold;">About me:</span> Software Engineer , Node.js Developer , I'm thrilled to have you visit my GitHub profile!</h4>
 <br/>
