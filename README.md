@@ -1,5 +1,5 @@
-WelLCOME TO Osama Znaid Github PROFILE 
-
+Welcome To Osama Znaid Github Profile
+ 
 
 ## 📬 GET IN TOUCH
 <p align="center">
